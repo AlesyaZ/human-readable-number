@@ -33,7 +33,6 @@ let numberStr = number.toString();
 
    else 
      return n1[numberStr[0]] + ' hundred ' + n10[numberStr[1]] + ' ' + n1[numberStr[2]];
-   
  } 
  }
  
